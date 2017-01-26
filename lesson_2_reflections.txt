@@ -9,12 +9,20 @@ What value do you think it offers?
     It allows me to choose which files I want to commit, even if multiple files
     have changed at the same time. This might allow me to commit an important change
     at the same time I'm working on a minor change on different files.
-    
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    If I made a minor change on a certain file to fix a bug, and that bug didn't
+    interact with a feature I was working on in another file, I could easily just
+    commit the file with the bug fix instead of all the current state of the project.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+    If I want to do experimental things I could use branches, I would have what I
+    want in a separate branch and the working main version in master. I could also
+    add a "nickname" to some point on the project, so I could easily jump there.
 
 How do the diagrams help you visualize the branch structure?
 
