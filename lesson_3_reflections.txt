@@ -8,3 +8,11 @@ stay up-to-date with your remote repository?
 		This way you are less likely to get external changes that conflict with	what you
 		are currently working on, e.g. someone else has merged a feature into branch
 		master and you have some changes on master which might conflict.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+		Forks are clones of repositories on Github, clones are copies of repositories
+		with all its files and commit history, and branches are ways to logically
+		separate (as in, diverting from a common ancestor) commits based on what the
+		programmer intends on doing.
