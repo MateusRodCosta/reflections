@@ -31,3 +31,13 @@ and what would be harder?
 		and merging them. It would not need to have technical knolwdge on code versioning
 		systems, but you would download lots more of data and waste sometime doing
 		things manually.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+		When you are working on something that you would prefer to have reviewed before
+		making it to master, be it a feature that needs lots of testing, be it strings
+		translations or rewording which needs to be checked for typos. Using separate
+		branches allow a logical separation of what isn't fully ready and what is,
+		doing all in master works if you are working alone and/or your work is mostly
+		linear.
