@@ -23,3 +23,11 @@ stored locally?
 		It could allow you to revert from the last version you have on a remote,
 		it also could allow you to fetch what is currently on the remote so you can
 		finish your work while offline and already merge the changes.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+		Probably sharing big zip files and manually running diff, seeing the differences
+		and merging them. It would not need to have technical knolwdge on code versioning
+		systems, but you would download lots more of data and waste sometime doing
+		things manually.
