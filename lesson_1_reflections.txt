@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I could just look at the changed lines side-by-side instead of checking two
+    whole files.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If a bug appeared, I could go back to a previous working version, compare
+    that to the current one and pinpoint where the problem is.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    As pros I could always know that one of the previous commit is not too
+    different from the one before it and that if I decided to check the changes
+    it would be easy to understand. As cons I might lose work if I forget to
+    commit and something happens.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    While you are likely to be separate code in various files to make programming
+    easier, so sometimes you might need to track them together, in others situations,
+    like in documents, you generally can have things on the same file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log allows meto see a list of all the commits with their description, so
+    I can easily see which one I want to check, and git diff allows me to compare
+    any two commits I found interesting from using git log.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I know that a working version is always available and I can easily access it
+    for comparison whenever a new problem appears.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Personal and college projects, if I need collaborating with other git might
+    make it easier.
