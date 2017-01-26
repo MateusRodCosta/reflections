@@ -16,3 +16,10 @@ one instead of another?
 		with all its files and commit history, and branches are ways to logically
 		separate (as in, diverting from a common ancestor) commits based on what the
 		programmer intends on doing.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+		It could allow you to revert from the last version you have on a remote,
+		it also could allow you to fetch what is currently on the remote so you can
+		finish your work while offline and already merge the changes.
